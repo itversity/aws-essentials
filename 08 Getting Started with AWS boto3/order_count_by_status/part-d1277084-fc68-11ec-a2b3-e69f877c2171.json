@@ -1,0 +1,9 @@
+{"order_status":"CANCELED","count":1428}
+{"order_status":"CLOSED","count":7556}
+{"order_status":"COMPLETE","count":22899}
+{"order_status":"ON_HOLD","count":3798}
+{"order_status":"PAYMENT_REVIEW","count":729}
+{"order_status":"PENDING","count":7610}
+{"order_status":"PENDING_PAYMENT","count":15030}
+{"order_status":"PROCESSING","count":8275}
+{"order_status":"SUSPECTED_FRAUD","count":1558}
